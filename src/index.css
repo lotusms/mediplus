@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1.2s forwards;
+}
+
+.fade-out {
+  opacity: 1;
+  animation: fadeOut 1.2s forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+  }
+}
+
+.opening-hours-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.opening-hours-list li {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.opening-hours-list li span {
+  color: #ffffff;
+}
