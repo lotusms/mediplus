@@ -1,8 +1,12 @@
-# React + Vite
+# Mediplus Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a projetc for a YouTube tutorial on 2024 for a React application made with Vite, React, Tailwind, and Firebase. The goal of the application is to show how to build an application, the preferred practices, how to leverage Firebase not only for authorization and database, but for sending emails out. And finally, how to build the application and deploy it to ANY hosting company of your choice
 
-Currently, two official plugins are available:
+Currently, these are docs for the stack being used:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Vite](https://vitejs.dev/) 
+- [React](https://react.dev/) 
+- [Tailwind CSS](https://tailwindcss.com/) 
+- [Tailwind UI](https://tailwindui.com/) 
+- [Firebase](https://firebase.google.com/)
+- [HTML Template](https://www.free-css.com/free-css-templates/page296/mediplus-lite)
